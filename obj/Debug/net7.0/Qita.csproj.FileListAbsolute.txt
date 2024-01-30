@@ -1,0 +1,15 @@
+C:\Users\tiger\RiderProjects\Qita\Qita\bin\Debug\net7.0\Qita.exe
+C:\Users\tiger\RiderProjects\Qita\Qita\bin\Debug\net7.0\Qita.deps.json
+C:\Users\tiger\RiderProjects\Qita\Qita\bin\Debug\net7.0\Qita.runtimeconfig.json
+C:\Users\tiger\RiderProjects\Qita\Qita\bin\Debug\net7.0\Qita.dll
+C:\Users\tiger\RiderProjects\Qita\Qita\bin\Debug\net7.0\Qita.pdb
+C:\Users\tiger\RiderProjects\Qita\Qita\obj\Debug\net7.0\Qita.csproj.AssemblyReference.cache
+C:\Users\tiger\RiderProjects\Qita\Qita\obj\Debug\net7.0\Qita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiger\RiderProjects\Qita\Qita\obj\Debug\net7.0\Qita.AssemblyInfoInputs.cache
+C:\Users\tiger\RiderProjects\Qita\Qita\obj\Debug\net7.0\Qita.AssemblyInfo.cs
+C:\Users\tiger\RiderProjects\Qita\Qita\obj\Debug\net7.0\Qita.csproj.CoreCompileInputs.cache
+C:\Users\tiger\RiderProjects\Qita\Qita\obj\Debug\net7.0\Qita.dll
+C:\Users\tiger\RiderProjects\Qita\Qita\obj\Debug\net7.0\refint\Qita.dll
+C:\Users\tiger\RiderProjects\Qita\Qita\obj\Debug\net7.0\Qita.pdb
+C:\Users\tiger\RiderProjects\Qita\Qita\obj\Debug\net7.0\Qita.genruntimeconfig.cache
+C:\Users\tiger\RiderProjects\Qita\Qita\obj\Debug\net7.0\ref\Qita.dll
